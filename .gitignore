@@ -1,0 +1,5 @@
+minishell
+fork_exec
+core
+core.*
+.vscode/
